@@ -148,7 +148,7 @@ nav a{
 .skills{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(75px, 1fr));
-    gap: 40px;
+    gap: 75px;
     justify-content: center;
     align-items: center;
     padding: 30px;
